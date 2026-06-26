@@ -105,7 +105,7 @@ icmp
 
 ### Evidence
 
-![ICMP Echo](screenshots/01_icmp_echo.jpeg)
+![ICMP Echo](icmp_echo.jpeg)
 
 ### Observation
 
@@ -133,7 +133,7 @@ tcp.flags.syn == 1 \\\\\\\&\\\\\\\& tcp.flags.ack == 0
 
 ### Evidence
 
-![SYN Scan](screenshots/02_syn_scan.jpeg)
+![SYN Scan](syn_scan.jpeg)
 
 The packet capture shows multiple SYN packets targeting different ports without completing a full TCP session. This behavior is consistent with reconnaissance activity performed before exploitation.
 
@@ -141,7 +141,7 @@ The packet capture shows multiple SYN packets targeting different ports without 
 
 # Packet Comparison
 
-![Comparison](screenshots/04_comparison_table.jpeg)
+![Comparison](comparison_table.jpeg)
 
 ---
 
