@@ -141,7 +141,7 @@ The packet capture shows multiple SYN packets targeting different ports without 
 
 # Packet Comparison
 
-![Comparison](comparison_table.jpeg)
+![Comparison](Comparison_Table.jpeg)
 
 ---
 
